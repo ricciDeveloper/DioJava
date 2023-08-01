@@ -1,0 +1,2 @@
+<h1>Estudo sobre controle de fluxo</h1>
+<p>utilizando estrutura condicional switch case, e vendo que em alguns casos é mais interessante o uso do if/else, e em outras situações o switchCase se encaixa melhor, sendo preciso estudar mais afundo os termos Continue, Break e Default</p>
